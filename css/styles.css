@@ -1,0 +1,40 @@
+#show-hacks {
+  display: none;
+}
+
+.contact {
+  cursor: pointer;
+  color: #salmon;
+}
+
+.contact:hover {
+  text-decoration: underline;
+}
+
+ body{
+   background-image: url(http://www.thisiscolossal.com/wp-content/uploads/2017/08/Lovely_Impressions.gif);
+   background-repeat: no-repeat;
+   background-size: cover;
+   color: powderblue;
+   text-decoration: underline;
+   padding:30px;
+   font-family: sans-serif;
+ }
+
+.btn{
+  color:black;
+}
+
+#hacks{
+color: GoldenRod;
+font-size: 30px;
+}
+
+#show-hacks{
+  font-size: 30px;
+}
+
+.jumbotron{
+  color:darkblue;
+  border: 10px solid powderblue;
+}
